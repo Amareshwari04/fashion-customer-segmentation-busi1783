@@ -1,0 +1,396 @@
+what is your age group?,What is your gender?,What is your approximate monthly income/allowance( £) ,How often do you buy clothing?,How much do you typically spend per clothing purchase (£)? ,"Where do you mostly shop for clothing?  
+
+","Which online platforms do you use? (Select all that apply) 
+","How far in advance do you plan clothing purchases? 
+
+","How often do you buy during sales or discount events? 
+","Do you prefer buying from sustainable/ethical brands?  
+","What influences your clothing purchase most? 
+","How important is brand loyalty to you? 
+","How often do you return clothing items?  
+","How do you discover new clothing brands?  
+","How important is fast delivery when shopping online? 
+","Do you follow fashion influencers on social media?  
+","How likely are you to buy clothing seen on social media? 
+"
+18-24,Male,£1000-£2000,Monthly,£50-£100,"Online only, In-store only, Both equally",H&M,I don't plan,Sometimes,Neutral,Trends,Important,Sometimes,Friends,Important,"Yes, regularly",Likely
+25-34,Male,£2000-£3500,Monthly,£50-£100,Both equally,Other,Weeks before,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£500-£1000,Weekly,£20-£50,In-store only,Amazon,Day before,Never,Neutral,Quality,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Monthly,£20-£50,"Online only, In-store only, Both equally",Shein,Day before,Sometimes,Neutral,Quality,Neutral,Sometimes,Social Media,Very important,"Yes, occasionally",Unlikely
+18-24,Female,Under £500,Rarely,Under £20,Both equally,Other,I don't plan,Sometimes,Neutral,Quality,Important,Very often,Online search,Very important,No,Neutral
+18-24,Male,£500-£1000,Every 2-3 months,£100-£200,Both equally,ASOS,Day before,Sometimes,Somewhat prefer,Brand,Neutral,Rarely,Friends,Very important,"Yes, occasionally",Likely
+18-24,Male,£500-£1000,Twice a year,£50-£100,Online only,Shein,Day before,Rarely,Neutral,Friends,Very important,Very often,In-store,,No,Likely
+18-24,Female,£1000-£2000,Every 2-3 months,£20-£50,In-store only,Amazon,Weeks before,Sometimes,Somewhat prefer,Quality,Important,Rarely,Friends,Important,No,Neutral
+18-24,Female,Under £500,Rarely,Under £20,In-store only,Other,Day before,Rarely,Somewhat prefer,Brand,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+25-34,Male,£1000-£2000,Every 2-3 months,£100-£200,Both equally,Amazon,Months before,Sometimes,Strongly prefer,Brand,Neutral,Rarely,Social Media,Important,No,Likely
+25-34,Male,£500-£1000,Monthly,£100-£200,Both equally,ASOS,Months before,Often,Somewhat prefer,Quality,Very important,Rarely,In-store,Important,"Yes, regularly",Neutral
+18-24,Female,Under £500,Rarely,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Price,Important,Sometimes,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,£500-£1000,Monthly,£20-£50,Both equally,Amazon,I don't plan,Often,Somewhat prefer,Quality,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,£500-£1000,Every 2-3 months,£50-£100,Both equally,Amazon,Weeks before,Sometimes,Somewhat prefer,Social Media,Important,Rarely,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,£1000-£2000,Monthly,£100-£200,Online only,Amazon,Weeks before,Sometimes,Somewhat prefer,Brand,Important,Very often,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Monthly,£20-£50,Both equally,Amazon,Weeks before,Sometimes,Strongly prefer,Quality,Important,Rarely,Social Media,Important,"Yes, occasionally",Unlikely
+18-24,Male,£2000-£3500,Twice a year,£200+,In-store only,Zara,I don't plan,Often,Neutral,Trends,Neutral,Never,TV ads,Important,"Yes, occasionally",Unlikely
+18-24,Female,Under £500,Every 2-3 months,£50-£100,"In-store only, Both equally",Amazon,I don't plan,Sometimes,Neutral,Price,Neutral,Never,Social Media,Important,"Yes, regularly",Very likely
+18-24,Male,£1000-£2000,Weekly,£20-£50,In-store only,Other,I don't plan,Often,Neutral,Brand,Important,Very often,In-store,Important,"Yes, occasionally",Unlikely
+18-24,Male,£1000-£2000,Monthly,£20-£50,In-store only,Zara,I don't plan,Often,Somewhat prefer,Quality,Important,Rarely,Social Media,Very important,"Yes, occasionally",Likely
+18-24,Male,£2000-£3500,Weekly,£50-£100,Online only,H&M,Day before,Sometimes,Neutral,Brand,Neutral,Never,TV ads,Very important,"Yes, regularly",Neutral
+25-34,Male,£1000-£2000,Every 2-3 months,Under £20,Both equally,Shein,Day before,Often,Neutral,Quality,Neutral,Sometimes,Online search,Neutral,No,Likely
+18-24,Female,£500-£1000,Rarely,£20-£50,In-store only,Amazon,I don't plan,Sometimes,Neutral,Quality,Important,Sometimes,Friends,Neutral,"Yes, occasionally",Likely
+25-34,Male,£2000-£3500,Monthly,£50-£100,Online only,Zara,Weeks before,Always,Strongly prefer,Brand,Very important,Sometimes,Online search,Important,"Yes, occasionally",Likely
+25-34,Male,£500-£1000,Every 2-3 months,£50-£100,Both equally,ASOS,I don't plan,Sometimes,Somewhat prefer,Brand,Neutral,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+25-34,Male,£2000-£3500,Rarely,£100-£200,Both equally,Other,I don't plan,Rarely,Neutral,Friends,Very important,Rarely,Online search,Very important,"Yes, regularly",Very likely
+25-34,Female,Under £500,Every 2-3 months,Under £20,In-store only,Other,I don't plan,Sometimes,Strongly prefer,Quality,Very important,Never,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Every 2-3 months,£50-£100,Both equally,Option 1,Day before,Often,Somewhat prefer,Quality,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Rarely,Under £20,Both equally,Amazon,I don't plan,Sometimes,Neutral,Price,Neutral,Rarely,In-store,Neutral,No,Neutral
+18-24,Male,£500-£1000,Monthly,£50-£100,In-store only,H&M,I don't plan,Sometimes,Somewhat prefer,Trends,Neutral,Rarely,Friends,Very important,"Yes, occasionally",Neutral
+25-34,Male,£1000-£2000,Monthly,£50-£100,Both equally,Amazon,Weeks before,Sometimes,Somewhat prefer,Quality,Important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+25-34,Male,£500-£1000,Monthly,Under £20,Both equally,Amazon,Weeks before,Always,Neutral,Price,Neutral,Rarely,Online search,Very important,"Yes, occasionally",Neutral
+25-34,Male,Under £500,Monthly,Under £20,Both equally,Other,I don't plan,Sometimes,Don't consider,Price,Neutral,Rarely,In-store,Important,No,Neutral
+25-34,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Social Media,Neutral,Sometimes,Online search,Important,"Yes, occasionally",Neutral
+18-24,Female,£2000-£3500,Monthly,£100-£200,Both equally,Amazon,Day before,Sometimes,Neutral,Quality,Not important,Never,Friends,Very important,"Yes, occasionally",Neutral
+25-34,Male,Under £500,Every 2-3 months,£20-£50,In-store only,Amazon,I don't plan,Rarely,Strongly prefer,Quality,Very important,Rarely,In-store,Neutral,No,Unlikely
+25-34,Male,£500-£1000,Monthly,£20-£50,Both equally,Other,Weeks before,Rarely,Strongly prefer,Brand,Very important,Rarely,Online search,Important,"Yes, regularly",Very likely
+25-34,Male,£3500+,Monthly,£20-£50,Both equally,Other,I don't plan,Always,Don't consider,Brand,Not important,Very often,In-store,Important,"Yes, regularly",Likely
+18-24,Female,£1000-£2000,Monthly,£20-£50,"Online only, In-store only, Both equally",Amazon,Weeks before,Sometimes,Neutral,Trends,Neutral,Sometimes,Social Media,Very important,"Yes, occasionally",Unlikely
+18-24,Male,£500-£1000,Monthly,£20-£50,Both equally,Amazon,Weeks before,Often,Neutral,Friends,Neutral,Sometimes,Online search,Neutral,No,Neutral
+25-34,Female,£1000-£2000,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Sometimes,Strongly prefer,Brand,Very important,Sometimes,Online search,Very important,"Yes, occasionally",Very likely
+18-24,Female,Under £500,Monthly,£20-£50,Both equally,Other,Weeks before,Sometimes,Somewhat prefer,Price,Neutral,Rarely,Social Media,Very important,No,Neutral
+25-34,Female,Under £500,Monthly,£50-£100,Both equally,Other,Day before,Sometimes,Neutral,Quality,Important,Rarely,Online search,Important,No,Neutral
+25-34,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,Weeks before,Sometimes,Strongly prefer,Quality,Neutral,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Monthly,Under £20,Both equally,Other,Weeks before,Sometimes,Neutral,Price,Neutral,Rarely,Social Media,Very important,No,Neutral
+18-24,Female,Under £500,Rarely,£20-£50,Both equally,Other,I don't plan,Rarely,Neutral,Trends,Neutral,Sometimes,Social Media,Important,"Yes, regularly",Neutral
+18-24,Male,£1000-£2000,Every 2-3 months,£20-£50,Both equally,Amazon,I don't plan,Rarely,Strongly prefer,Quality,Very important,Rarely,In-store,Very important,"Yes, regularly",Very likely
+25-34,Male,£500-£1000,Rarely,Under £20,In-store only,Amazon,I don't plan,Rarely,Don't consider,Social Media,Not important,Never,TV ads,Very important,No,Neutral
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Other,Day before,Often,Neutral,Quality,Very important,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+25-34,Male,£500-£1000,Every 2-3 months,£100-£200,Both equally,Amazon,I don't plan,Always,Strongly prefer,Brand,Very important,Never,Social Media,Very important,"Yes, regularly",Likely
+25-34,Female,£2000-£3500,Every 2-3 months,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Strongly prefer,Quality,Very important,Very often,Friends,Very important,No,Unlikely
+18-24,Female,Under £500,Twice a year,£20-£50,In-store only,Other,I don't plan,Rarely,Neutral,Social Media,Very important,Never,Social Media,Important,"Yes, occasionally",Likely
+25-34,Female,Under £500,Every 2-3 months,£20-£50,Online only,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Neutral,Rarely,Online search,Very important,"Yes, occasionally",Neutral
+Under 18,Male,Under £500,Rarely,£100-£200,Both equally,Amazon,I don't plan,Always,Neutral,Trends,Very important,Rarely,Online search,Neutral,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Every 2-3 months,Under £20,Online only,Amazon,Weeks before,Often,Somewhat prefer,Trends,Not important,Rarely,Social Media,Neutral,"Yes, regularly",Unlikely
+18-24,Male,Under £500,Every 2-3 months,£100-£200,"In-store only, Both equally",H&M,Day before,Sometimes,Neutral,Trends,Very important,Very often,TV ads,Important,"Yes, occasionally",Very likely
+18-24,Female,Under £500,Monthly,£20-£50,Online only,H&M,Months before,Always,Strongly prefer,Price,Very important,Sometimes,Friends,Very important,"Yes, regularly",Very likely
+45+,Female,Under £500,Monthly,Under £20,Online only,H&M,Months before,Always,Strongly prefer,Price,Very important,Sometimes,Friends,Very important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Twice a year,£50-£100,Online only,H&M,Weeks before,Always,Neutral,Quality,Important,Sometimes,TV ads,Neutral,"Yes, occasionally",Neutral
+25-34,Male,£1000-£2000,Twice a year,£100-£200,Both equally,Other,I don't plan,Never,Don't consider,Friends,Not important,Never,Friends,Not important,No,Very likely
+18-24,Male,Under £500,Every 2-3 months,Under £20,Both equally,H&M,Weeks before,Always,Neutral,Price,Not important,Rarely,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Rarely,£20-£50,Both equally,Other,I don't plan,Rarely,Don't consider,Quality,Neutral,Rarely,In-store,Important,No,Very unlikely
+25-34,Female,Under £500,Rarely,Under £20,Both equally,Other,I don't plan,Rarely,Somewhat prefer,Price,Neutral,Sometimes,Social Media,Neutral,No,Neutral
+18-24,Male,£500-£1000,Every 2-3 months,£20-£50,Online only,Amazon,I don't plan,Always,Strongly prefer,Quality,Important,Never,Online search,Neutral,"Yes, regularly",Likely
+18-24,Male,Under £500,Weekly,Under £20,"Online only, Both equally",Amazon,Weeks before,Often,Somewhat prefer,Quality,Neutral,Very often,Social Media,Important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Monthly,Under £20,Online only,Amazon,I don't plan,Sometimes,Neutral,Quality,Important,Sometimes,Social Media,Very important,No,Likely
+Under 18,Female,£2000-£3500,Monthly,£100-£200,Both equally,Amazon,Day before,Sometimes,Somewhat prefer,Trends,Important,Sometimes,TV ads,Neutral,"Yes, regularly",Likely
+18-24,Male,Under £500,Every 2-3 months,£50-£100,Both equally,Amazon,Day before,Always,Strongly prefer,Quality,Very important,Sometimes,Social Media,Important,"Yes, regularly",Very likely
+18-24,Male,£1000-£2000,Monthly,£100-£200,"In-store only, Both equally",Amazon,Weeks before,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+45+,Male,£2000-£3500,Every 2-3 months,£50-£100,Both equally,Zara,I don't plan,Sometimes,Strongly prefer,Quality,Very important,Very often,Social Media,Important,"Yes, occasionally",Very likely
+25-34,Female,£1000-£2000,Monthly,Under £20,Both equally,Shein,I don't plan,Always,Strongly prefer,Trends,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+25-34,Male,£1000-£2000,Rarely,£50-£100,In-store only,Amazon,Weeks before,Sometimes,Neutral,Quality,Neutral,Sometimes,In-store,Important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Monthly,£20-£50,In-store only,Amazon,Day before,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,£1000-£2000,Monthly,£20-£50,Online only,Zara,Day before,Rarely,Neutral,Friends,Neutral,Very often,Friends,Very important,No,Neutral
+25-34,Male,Under £500,Weekly,Under £20,Both equally,Amazon,Months before,Rarely,Neutral,Brand,Neutral,Very often,Online search,Very important,"Yes, regularly",Likely
+35-44,Male,£2000-£3500,Monthly,£100-£200,In-store only,H&M,Months before,Sometimes,Neutral,Friends,Important,Rarely,Online search,Neutral,"Yes, regularly",Neutral
+25-34,Female,£1000-£2000,Twice a year,£50-£100,"Online only, In-store only, Both equally",Shein,I don't plan,Often,Neutral,Price,Neutral,Rarely,Social Media,Very important,No,Likely
+35-44,Male,£2000-£3500,Every 2-3 months,£20-£50,Both equally,Other,Months before,Always,Somewhat prefer,Trends,Important,Never,Online search,Neutral,"Yes, occasionally",Likely
+18-24,Male,£1000-£2000,Monthly,£20-£50,In-store only,H&M,Weeks before,Sometimes,Somewhat prefer,Price,Important,Rarely,Friends,Very important,"Yes, regularly",Likely
+25-34,Male,£1000-£2000,Monthly,£50-£100,In-store only,Other,Weeks before,Sometimes,Neutral,Price,Important,Rarely,In-store,Very important,"Yes, regularly",Neutral
+18-24,Female,£500-£1000,Monthly,Under £20,"Online only, In-store only, Both equally",Amazon,I don't plan,Often,Strongly prefer,Quality,Very important,Very often,In-store,Very important,"Yes, regularly",Very likely
+25-34,Male,£500-£1000,Every 2-3 months,£20-£50,In-store only,ASOS,I don't plan,Always,Strongly prefer,Quality,Not important,Very often,TV ads,Very important,"Yes, regularly",Likely
+35-44,Male,£1000-£2000,Weekly,£100-£200,Online only,Amazon,Weeks before,Often,Neutral,Trends,Not important,Rarely,Friends,Very important,"Yes, regularly",Very likely
+35-44,Male,£500-£1000,Rarely,Under £20,In-store only,Zara,I don't plan,Always,Strongly prefer,Price,Very important,Sometimes,TV ads,Important,"Yes, regularly",Very likely
+25-34,Male,£2000-£3500,Rarely,£100-£200,"In-store only, Both equally",Zara,I don't plan,Sometimes,Strongly prefer,Quality,Very important,Never,Social Media,Very important,"Yes, occasionally",Neutral
+25-34,Male,Under £500,Rarely,£50-£100,In-store only,Other,I don't plan,Never,Neutral,Brand,Neutral,Very often,Friends,Very important,"Yes, regularly",Likely
+25-34,Female,£500-£1000,Every 2-3 months,£20-£50,Both equally,Amazon,I don't plan,Rarely,Neutral,Quality,Very important,Rarely,Online search,Very important,No,Very unlikely
+18-24,Male,£1000-£2000,Rarely,£100-£200,"In-store only, Both equally",Other,Weeks before,Often,Neutral,Brand,Neutral,Sometimes,Friends,Not important,No,Neutral
+18-24,Male,£1000-£2000,Monthly,£100-£200,Online only,Zara,I don't plan,Sometimes,Neutral,Trends,Neutral,Sometimes,Social Media,Neutral,"Yes, occasionally",Neutral
+18-24,Female,£1000-£2000,Monthly,£20-£50,Both equally,H&M,Weeks before,Often,Somewhat prefer,Trends,Neutral,Rarely,Friends,Important,"Yes, occasionally",Likely
+25-34,Male,£1000-£2000,Every 2-3 months,£50-£100,"Online only, In-store only",H&M,Weeks before,Sometimes,Strongly prefer,Social Media,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,£500-£1000,Every 2-3 months,Under £20,Both equally,H&M,Day before,Sometimes,Neutral,Quality,Important,Sometimes,Social Media,Important,"Yes, occasionally",Unlikely
+18-24,Male,£2000-£3500,Twice a year,£100-£200,Both equally,Zara,Weeks before,Sometimes,Strongly prefer,Brand,Very important,Sometimes,Social Media,Important,"Yes, regularly",Very likely
+18-24,Male,£500-£1000,Monthly,£50-£100,Both equally,Option 1,I don't plan,Sometimes,Strongly prefer,Quality,Important,Sometimes,Friends,Important,No,Neutral
+25-34,Female,£1000-£2000,Every 2-3 months,£50-£100,"Online only, In-store only, Both equally",Option 1,I don't plan,Sometimes,Somewhat prefer,Social Media,Not important,Very often,Online search,Important,"Yes, occasionally",Likely
+18-24,Male,£1000-£2000,Every 2-3 months,£50-£100,Both equally,H&M,Weeks before,Sometimes,Neutral,Quality,Neutral,Very often,In-store,Very important,"Yes, regularly",Very likely
+25-34,Male,£2000-£3500,Monthly,£50-£100,In-store only,H&M,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Rarely,In-store,Very important,No,Neutral
+18-24,Male,£1000-£2000,Monthly,£50-£100,Both equally,H&M,I don't plan,Sometimes,Neutral,Brand,Important,Rarely,Social Media,Neutral,"Yes, occasionally",Likely
+25-34,Male,£2000-£3500,Every 2-3 months,£50-£100,"Online only, In-store only, Both equally",Amazon,Weeks before,Sometimes,Neutral,Quality,Very important,Very often,Social Media,,"Yes, regularly",Very likely
+18-24,Male,Under £500,Weekly,Under £20,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Weekly,£20-£50,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£500-£1000,Weekly,£50-£100,Both equally,H&M,I don't plan,Always,Strongly prefer,Quality,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+Under 18,Male,Under £500,Weekly,Under £20,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£500-£1000,Monthly,£50-£100,Both equally,Other,I don't plan,Sometimes,Neutral,Brand,Very important,Sometimes,In-store,Neutral,"Yes, occasionally",Neutral
+25-34,Male,£1000-£2000,Every 2-3 months,£20-£50,Both equally,H&M,I don't plan,Always,Strongly prefer,Quality,Very important,Rarely,In-store,Very important,"Yes, regularly",Neutral
+18-24,Male,£2000-£3500,Every 2-3 months,£200+,In-store only,Zara,I don't plan,Always,Strongly prefer,Price,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Every 2-3 months,Under £20,Both equally,H&M,I don't plan,Sometimes,Strongly prefer,Brand,Very important,Sometimes,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,£500-£1000,Monthly,£50-£100,Online only,Other,I don't plan,Sometimes,Neutral,Social Media,Very important,Sometimes,Online search,Neutral,"Yes, occasionally",Neutral
+25-34,Male,Under £500,Weekly,£20-£50,Online only,Zara,I don't plan,Always,Strongly prefer,Quality,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+25-34,Male,£500-£1000,Monthly,£50-£100,"Online only, In-store only, Both equally",ASOS,I don't plan,Always,Strongly prefer,Quality,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Likely
+25-34,Male,£500-£1000,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Never,Neutral,Quality,Not important,Rarely,Online search,Very important,No,Very unlikely
+18-24,Male,Under £500,Monthly,£50-£100,"Online only, In-store only, Both equally",Zara,Day before,Often,Somewhat prefer,Brand,Important,Sometimes,In-store,Very important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Sometimes,Neutral,Price,Not important,Very often,Social Media,Important,No,Neutral
+25-34,Male,£500-£1000,Monthly,£20-£50,Online only,Option 1,I don't plan,Often,Somewhat prefer,Brand,Important,Very often,Friends,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Monthly,Under £20,Online only,Other,Weeks before,Sometimes,Strongly prefer,Price,Important,Sometimes,Friends,Important,"Yes, occasionally",Likely
+25-34,Male,£500-£1000,Monthly,£200+,Both equally,Amazon,Weeks before,Always,Strongly prefer,Quality,Important,Rarely,Social Media,Neutral,"Yes, occasionally",Very likely
+18-24,Male,Under £500,Monthly,£100-£200,Both equally,Other,Day before,Always,Somewhat prefer,Price,Important,Sometimes,Friends,Important,No,Neutral
+25-34,Male,£500-£1000,Every 2-3 months,£50-£100,In-store only,Option 1,I don't plan,Always,Somewhat prefer,Trends,Neutral,Sometimes,Friends,Important,No,Likely
+25-34,Male,Under £500,Every 2-3 months,£20-£50,Both equally,Amazon,I don't plan,Always,Somewhat prefer,Quality,Very important,Rarely,Online search,Important,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Rarely,Under £20,In-store only,Other,I don't plan,Sometimes,Somewhat prefer,Price,Very important,Rarely,Social Media,Very important,"Yes, regularly",Likely
+18-24,Male,Under £500,Every 2-3 months,£20-£50,In-store only,Option 1,Day before,Sometimes,Strongly prefer,Quality,Important,Sometimes,Friends,Very important,"Yes, occasionally",Very likely
+18-24,Male,£500-£1000,Every 2-3 months,£20-£50,Both equally,Amazon,Day before,Sometimes,Strongly prefer,Quality,Very important,Rarely,Social Media,Neutral,"Yes, regularly",Neutral
+18-24,Male,Under £500,Every 2-3 months,£20-£50,In-store only,Amazon,Weeks before,Sometimes,Strongly prefer,Friends,Important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Monthly,£200+,Both equally,Amazon,Day before,Rarely,Strongly prefer,Quality,Very important,Sometimes,Social Media,Important,"Yes, regularly",Very likely
+18-24,Male,£1000-£2000,Monthly,£20-£50,Both equally,ASOS,I don't plan,Sometimes,Neutral,Price,Neutral,Very often,TV ads,Neutral,"Yes, regularly",Likely
+18-24,Male,£500-£1000,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Often,Neutral,Trends,Very important,Rarely,Friends,Neutral,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Twice a year,£20-£50,Both equally,Other,I don't plan,Rarely,Strongly prefer,Quality,Very important,Rarely,Online search,Neutral,"Yes, occasionally",Very likely
+18-24,Male,Under £500,Every 2-3 months,£20-£50,Both equally,Zara,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Social Media,Very important,"Yes, occasionally",Likely
+25-34,Male,£3500+,Rarely,£200+,Both equally,Zara,Day before,Often,Strongly prefer,Trends,Not important,Sometimes,Online search,Not important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Twice a year,£20-£50,Both equally,Zara,I don't plan,Always,Strongly prefer,Quality,Very important,Sometimes,Social Media,Very important,"Yes, occasionally",Unlikely
+18-24,Male,Under £500,Monthly,£20-£50,Both equally,Amazon,Day before,Sometimes,Somewhat prefer,Brand,Important,Sometimes,Friends,Important,"Yes, occasionally",Very likely
+18-24,Male,Under £500,Monthly,£20-£50,Both equally,Amazon,Weeks before,Sometimes,Somewhat prefer,Quality,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+35-44,Female,Under £500,Twice a year,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Price,Neutral,Sometimes,Online search,Neutral,No,Neutral
+18-24,Male,Under £500,Rarely,Under £20,Both equally,Amazon,I don't plan,Always,Don't consider,Price,Not important,Rarely,Social Media,Not important,No,Neutral
+18-24,Male,£500-£1000,Monthly,£50-£100,Both equally,H&M,Day before,Sometimes,Somewhat prefer,Trends,Important,Sometimes,TV ads,Very important,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Monthly,£50-£100,Online only,Zara,Weeks before,Often,Somewhat prefer,Quality,Neutral,Sometimes,Friends,Important,"Yes, regularly",Neutral
+18-24,Male,Under £500,Rarely,Under £20,Both equally,Amazon,I don't plan,Sometimes,Neutral,Quality,Important,Sometimes,Friends,Important,"Yes, regularly",Very likely
+18-24,Male,£1000-£2000,Monthly,£50-£100,In-store only,Shein,Weeks before,Rarely,Somewhat prefer,Quality,Important,Sometimes,Social Media,Not important,No,Likely
+18-24,Male,£500-£1000,Every 2-3 months,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Strongly prefer,Quality,Important,Rarely,Friends,Important,"Yes, occasionally",Neutral
+18-24,Female,£1000-£2000,Every 2-3 months,£100-£200,Both equally,Other,Months before,Sometimes,Somewhat prefer,Price,Very important,Rarely,Online search,Very important,"Yes, occasionally",Very likely
+25-34,Male,Under £500,Rarely,£20-£50,Both equally,Other,I don't plan,Always,Neutral,Brand,Very important,Rarely,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Monthly,Under £20,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Never,Strongly prefer,Price,Very important,Sometimes,Online search,Very important,"Yes, occasionally",Very likely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,In-store only,Amazon,I don't plan,Sometimes,Strongly prefer,Trends,Very important,Never,Friends,Very important,"Yes, regularly",Neutral
+18-24,Male,Under £500,Weekly,£20-£50,"Online only, In-store only, Both equally",Option 1,Day before,Always,Strongly prefer,Price,Important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£2000-£3500,Every 2-3 months,£50-£100,Both equally,Amazon,Weeks before,Sometimes,Somewhat prefer,Trends,Important,Sometimes,Friends,Very important,"Yes, occasionally",Likely
+18-24,Male,£500-£1000,Monthly,£20-£50,Both equally,Other,Weeks before,Sometimes,Strongly prefer,Quality,Important,Rarely,Friends,Important,No,Neutral
+18-24,Female,Under £500,Every 2-3 months,Under £20,Online only,Other,I don't plan,Always,Somewhat prefer,Brand,Important,Very often,Friends,Important,No,Likely
+18-24,Male,Under £500,Twice a year,£20-£50,In-store only,H&M,Weeks before,Rarely,Neutral,Quality,Important,Sometimes,Social Media,Neutral,"Yes, regularly",Neutral
+18-24,Male,£3500+,Monthly,Under £20,Online only,Amazon,I don't plan,Sometimes,Neutral,Quality,Very important,Sometimes,Online search,Important,"Yes, regularly",Likely
+18-24,Male,£500-£1000,Monthly,£50-£100,In-store only,Amazon,Day before,Sometimes,Neutral,Brand,Very important,Rarely,Social Media,Very important,"Yes, regularly",Likely
+18-24,Male,£500-£1000,Every 2-3 months,£20-£50,Both equally,H&M,I don't plan,Sometimes,Somewhat prefer,Trends,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Likely
+25-34,Male,Under £500,Every 2-3 months,£50-£100,In-store only,H&M,Weeks before,Rarely,Neutral,Friends,Neutral,Rarely,In-store,Neutral,"Yes, occasionally",Neutral
+25-34,Male,£500-£1000,Weekly,Under £20,Online only,H&M,I don't plan,Always,Somewhat prefer,Quality,Neutral,Never,Friends,Important,"Yes, regularly",Neutral
+Under 18,Male,£500-£1000,Every 2-3 months,£20-£50,Both equally,Amazon,I don't plan,Sometimes,Neutral,Trends,Neutral,Never,Social Media,Neutral,"Yes, regularly",Neutral
+Under 18,Male,Under £500,Weekly,£20-£50,Online only,Amazon,I don't plan,Sometimes,Neutral,Quality,Neutral,Rarely,Social Media,Neutral,"Yes, occasionally",Neutral
+Under 18,Male,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Sometimes,Neutral,Trends,Neutral,Rarely,Social Media,Neutral,"Yes, regularly",Neutral
+18-24,Male,£500-£1000,Weekly,£50-£100,In-store only,Amazon,Day before,Often,Strongly prefer,Brand,Very important,Rarely,Social Media,Very important,"Yes, regularly",Likely
+18-24,Male,Under £500,Monthly,£50-£100,Online only,Zara,I don't plan,Often,Strongly prefer,Social Media,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,£500-£1000,Monthly,£20-£50,Both equally,Other,I don't plan,Always,Neutral,Quality,Neutral,Rarely,Social Media,Important,"Yes, occasionally",Neutral
+18-24,Female,£3500+,Monthly,Under £20,"Online only, In-store only, Both equally",Other,I don't plan,Always,Strongly prefer,Quality,Very important,Never,Social Media,Very important,"Yes, regularly",Neutral
+18-24,Male,£1000-£2000,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Sometimes,Neutral,Quality,Neutral,Rarely,Social Media,Very important,No,Neutral
+25-34,Male,£1000-£2000,Every 2-3 months,£50-£100,In-store only,Amazon,I don't plan,Sometimes,Strongly prefer,Quality,Neutral,Sometimes,Friends,Neutral,"Yes, occasionally",Likely
+18-24,Male,£2000-£3500,Monthly,£20-£50,Both equally,Shein,Weeks before,Sometimes,Strongly prefer,Price,Very important,Rarely,Social Media,Very important,"Yes, regularly",Likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,In-store only,ASOS,I don't plan,Sometimes,Somewhat prefer,Quality,Neutral,Rarely,Social Media,Important,No,Likely
+18-24,Prefer not to say,£500-£1000,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Often,Somewhat prefer,Quality,Neutral,Rarely,Social Media,Important,No,Neutral
+Under 18,Female,£2000-£3500,Monthly,Under £20,"Online only, In-store only, Both equally",Other,I don't plan,Always,Strongly prefer,Quality,Very important,Never,Social Media,Very important,"Yes, regularly",Neutral
+18-24,Female,Under £500,Monthly,Under £20,"Online only, In-store only, Both equally",Amazon,I don't plan,Always,Strongly prefer,Brand,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Twice a year,Under £20,In-store only,Amazon,Weeks before,Rarely,Neutral,Quality,Neutral,Rarely,Social Media,Important,"Yes, occasionally",Neutral
+Under 18,Male,£500-£1000,Monthly,£20-£50,Online only,Option 1,I don't plan,Never,Strongly prefer,Social Media,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+Under 18,Male,Under £500,Weekly,Under £20,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Never,Neutral,Quality,Very important,Rarely,Online search,Important,"Yes, regularly",Likely
+Under 18,Male,Under £500,Weekly,Under £20,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Not important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£500-£1000,Every 2-3 months,Under £20,Both equally,Amazon,Months before,Sometimes,Strongly prefer,Quality,Important,Rarely,Online search,Important,"Yes, regularly",Likely
+35-44,Female,£1000-£2000,Monthly,£50-£100,Online only,Shein,I don't plan,Always,Strongly prefer,Trends,Very important,Very often,Social Media,Important,"Yes, regularly",Neutral
+18-24,Male,£500-£1000,Twice a year,£100-£200,In-store only,Other,Weeks before,Sometimes,Neutral,Quality,Very important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+25-34,Male,Under £500,Every 2-3 months,Under £20,"In-store only, Both equally",Amazon,Day before,Sometimes,Neutral,Quality,Important,Sometimes,Social Media,Important,No,Very likely
+25-34,Male,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Sometimes,Neutral,Quality,Neutral,Sometimes,Friends,Neutral,No,Unlikely
+18-24,Male,Under £500,Every 2-3 months,Under £20,Both equally,Other,Weeks before,Rarely,Don't consider,Trends,Not important,Never,Social Media,Neutral,No,Neutral
+18-24,Male,Under £500,Twice a year,£100-£200,In-store only,Amazon,I don't plan,Often,Somewhat prefer,Quality,Important,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+Under 18,Male,Under £500,Rarely,Under £20,"Online only, In-store only, Both equally",Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Friends,Very important,"Yes, regularly",Very likely
+35-44,Male,£1000-£2000,Every 2-3 months,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,In-store,Neutral,No,Neutral
+18-24,Male,£500-£1000,Monthly,£50-£100,Both equally,H&M,Weeks before,Sometimes,Somewhat prefer,Brand,Important,Sometimes,Friends,Important,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Every 2-3 months,£100-£200,In-store only,Amazon,I don't plan,Sometimes,Somewhat prefer,Price,Not important,Never,Online search,Very important,No,Likely
+25-34,Female,Under £500,Every 2-3 months,£50-£100,Both equally,Other,I don't plan,Sometimes,Don't consider,Quality,Neutral,Rarely,Social Media,Neutral,"Yes, occasionally",Neutral
+18-24,Male,£1000-£2000,Monthly,£50-£100,Online only,H&M,Weeks before,Often,Neutral,Quality,Important,Rarely,Online search,Important,"Yes, occasionally",Neutral
+18-24,Male,£1000-£2000,Weekly,£100-£200,Both equally,Amazon,I don't plan,Sometimes,Neutral,Quality,Important,Sometimes,In-store,Neutral,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Monthly,£100-£200,Online only,ASOS,Day before,Rarely,Somewhat prefer,Friends,Neutral,Sometimes,Friends,Important,"Yes, regularly",Likely
+18-24,Male,£1000-£2000,Monthly,£20-£50,Both equally,Other,Day before,Always,Somewhat prefer,Price,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+Under 18,Female,Under £500,Monthly,Under £20,Online only,Other,Day before,Sometimes,Neutral,Quality,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Likely
+18-24,Male,£1000-£2000,Monthly,£20-£50,Both equally,Other,I don't plan,Never,Strongly prefer,Quality,Very important,Very often,Social Media,Very important,"Yes, regularly",Likely
+18-24,Male,£2000-£3500,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Sometimes,Neutral,Price,Important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,£500-£1000,Monthly,£20-£50,In-store only,Other,I don't plan,Sometimes,Don't consider,Quality,Very important,Sometimes,In-store,Not important,No,Unlikely
+Under 18,Female,Under £500,Monthly,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,£3500+,Monthly,£200+,Online only,Other,Day before,Rarely,Don't consider,Quality,Important,Rarely,Social Media,Very important,"Yes, occasionally",Likely
+25-34,Female,£1000-£2000,Every 2-3 months,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+Under 18,Female,Under £500,Monthly,Under £20,Both equally,Option 1,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Friends,Very important,"Yes, regularly",Neutral
+18-24,Female,Under £500,Monthly,Under £20,Both equally,Amazon,I don't plan,Often,Strongly prefer,Brand,Very important,Sometimes,Social Media,Important,"Yes, regularly",Likely
+18-24,Male,£500-£1000,Every 2-3 months,£100-£200,Both equally,Amazon,I don't plan,Often,Don't consider,Quality,Neutral,Sometimes,In-store,Important,No,Very unlikely
+18-24,Male,£3500+,Weekly,£50-£100,Both equally,Amazon,I don't plan,Often,Strongly prefer,Quality,Not important,Rarely,Friends,Important,No,Unlikely
+18-24,Female,Under £500,Twice a year,£20-£50,Both equally,Amazon,I don't plan,Never,Neutral,Price,Not important,Never,Social Media,Very important,No,Very unlikely
+18-24,Male,Under £500,Twice a year,Under £20,In-store only,Amazon,I don't plan,,Neutral,Quality,Important,Sometimes,In-store,Very important,No,Neutral
+Under 18,Female,£500-£1000,Monthly,£50-£100,Both equally,Amazon,Day before,Often,Strongly prefer,Brand,Very important,Sometimes,Friends,Very important,"Yes, regularly",Likely
+18-24,Female,£1000-£2000,Rarely,£50-£100,Online only,Amazon,I don't plan,Sometimes,Neutral,Quality,Important,Rarely,Online search,Very important,No,Neutral
+25-34,Male,£1000-£2000,Weekly,£100-£200,In-store only,Zara,Weeks before,Often,Somewhat prefer,Quality,Very important,Very often,Online search,Important,"Yes, regularly",Very likely
+18-24,Female,£1000-£2000,Weekly,£50-£100,Both equally,Option 1,I don't plan,Always,Neutral,Quality,Important,Rarely,Online search,Important,"Yes, occasionally",Very likely
+18-24,Male,£500-£1000,Monthly,£100-£200,Online only,Zara,Day before,Rarely,Strongly prefer,Brand,Neutral,Sometimes,Social Media,Important,"Yes, regularly",Very likely
+25-34,Male,£1000-£2000,Monthly,£50-£100,Both equally,Zara,Weeks before,Sometimes,Somewhat prefer,Brand,Very important,Rarely,Online search,Very important,No,Neutral
+18-24,Male,£1000-£2000,Rarely,£50-£100,In-store only,Amazon,I don't plan,Rarely,Somewhat prefer,Quality,Neutral,Rarely,Social Media,Important,"Yes, occasionally",Unlikely
+18-24,Male,£1000-£2000,Every 2-3 months,£100-£200,In-store only,Option 1,I don't plan,Rarely,Neutral,Friends,Important,Sometimes,Online search,Important,No,Neutral
+18-24,Male,£1000-£2000,Every 2-3 months,£200+,Both equally,Option 1,I don't plan,Sometimes,Neutral,Brand,Important,Rarely,Online search,Neutral,No,Neutral
+18-24,Male,Under £500,Every 2-3 months,Under £20,In-store only,Amazon,I don't plan,Sometimes,Neutral,Price,Important,Rarely,In-store,Neutral,No,Neutral
+18-24,Male,£1000-£2000,Monthly,£50-£100,In-store only,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+Under 18,Male,Under £500,Every 2-3 months,Under £20,In-store only,Amazon,I don't plan,Sometimes,Neutral,Price,Important,Rarely,In-store,Neutral,No,Neutral
+18-24,Male,£2000-£3500,Every 2-3 months,£100-£200,Both equally,Option 1,I don't plan,Sometimes,Neutral,Friends,Neutral,Rarely,Online search,Important,No,Unlikely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Amazon,Weeks before,Sometimes,Neutral,Price,Neutral,Rarely,Online search,Neutral,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Twice a year,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Neutral,Trends,Neutral,Rarely,Online search,Very important,No,Unlikely
+18-24,Male,£3500+,Every 2-3 months,£200+,Both equally,Option 1,I don't plan,Sometimes,Neutral,Quality,Important,Rarely,Online search,Important,No,Likely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,In-store,Very important,No,Unlikely
+25-34,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Often,Neutral,Quality,Very important,Rarely,Friends,Very important,No,Neutral
+18-24,Female,Under £500,Every 2-3 months,£20-£50,In-store only,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,In-store,Very important,No,Unlikely
+18-24,Male,£500-£1000,Twice a year,£50-£100,In-store only,Amazon,I don't plan,Rarely,Strongly prefer,Brand,Important,Rarely,Friends,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Weekly,Under £20,Both equally,Amazon,Weeks before,Sometimes,Neutral,Quality,Very important,Very often,Online search,Very important,"Yes, occasionally",Very likely
+18-24,Female,£2000-£3500,Twice a year,£200+,Both equally,Other,Months before,Sometimes,Don't consider,Trends,Important,Rarely,Online search,Important,"Yes, occasionally",Unlikely
+18-24,Male,£500-£1000,Monthly,£50-£100,Both equally,Amazon,Day before,Sometimes,Strongly prefer,Quality,Very important,Sometimes,TV ads,Very important,"Yes, occasionally",Very likely
+25-34,Female,£1000-£2000,Every 2-3 months,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Very likely
+25-34,Male,£500-£1000,Monthly,£20-£50,Online only,Other,I don't plan,Always,Somewhat prefer,Quality,Important,Sometimes,Online search,Important,"Yes, occasionally",Very likely
+18-24,Male,Under £500,Weekly,Under £20,In-store only,Other,I don't plan,Always,Don't consider,Quality,Very important,Very often,Online search,Very important,No,Very unlikely
+18-24,Male,Under £500,Rarely,£20-£50,"Online only, In-store only, Both equally",Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Sometimes,In-store,Very important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Monthly,£20-£50,Both equally,H&M,Weeks before,Always,Strongly prefer,Quality,Very important,Sometimes,Social Media,Very important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,Weeks before,Often,Somewhat prefer,Trends,Very important,Rarely,Friends,Very important,"Yes, occasionally",Likely
+Under 18,Male,Under £500,Every 2-3 months,£50-£100,In-store only,ASOS,I don't plan,Always,Strongly prefer,Price,Very important,Sometimes,Friends,,"Yes, regularly",Very likely
+18-24,Female,Under £500,Weekly,Under £20,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Trends,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Likely
+18-24,Male,Under £500,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Sometimes,Neutral,Quality,Very important,Rarely,Friends,Important,"Yes, occasionally",Likely
+25-34,Male,Under £500,Monthly,£20-£50,Both equally,Other,I don't plan,Often,Strongly prefer,Quality,Very important,Very often,Online search,Important,No,Likely
+18-24,Female,Under £500,Monthly,Under £20,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Weekly,Under £20,Both equally,Option 1,I don't plan,Often,Strongly prefer,Price,Neutral,Very often,Social Media,Very important,"Yes, regularly",Very likely
+Under 18,Female,Under £500,Twice a year,£20-£50,Both equally,H&M,Day before,Often,Neutral,Trends,Neutral,Rarely,Online search,Important,"Yes, occasionally",Unlikely
+Under 18,Male,£500-£1000,Every 2-3 months,£20-£50,Online only,Other,I don't plan,Always,Neutral,Price,Neutral,Sometimes,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Weekly,Under £20,In-store only,ASOS,Day before,Sometimes,Neutral,Brand,Important,Never,Online search,Important,"Yes, occasionally",Very likely
+18-24,Male,£1000-£2000,Every 2-3 months,£20-£50,Both equally,Zara,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Social Media,Neutral,"Yes, regularly",Likely
+18-24,Male,Under £500,Rarely,Under £20,Online only,Zara,I don't plan,Always,Strongly prefer,Quality,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Monthly,£50-£100,In-store only,H&M,Weeks before,Sometimes,Somewhat prefer,Quality,Important,Sometimes,TV ads,Neutral,"Yes, occasionally",Neutral
+25-34,Male,£500-£1000,Every 2-3 months,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Sometimes,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,£500-£1000,Twice a year,£50-£100,Both equally,Amazon,I don't plan,Sometimes,Neutral,Quality,Neutral,Rarely,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,£500-£1000,Monthly,£20-£50,"Online only, In-store only, Both equally",Amazon,Weeks before,Sometimes,Strongly prefer,Trends,Very important,Sometimes,Friends,Important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Twice a year,Under £20,Both equally,Other,I don't plan,Sometimes,Neutral,Quality,Very important,Rarely,Friends,Important,"Yes, occasionally",Very unlikely
+18-24,Male,Under £500,Monthly,Under £20,"Online only, In-store only, Both equally",Amazon,Weeks before,Always,Neutral,Quality,Important,Sometimes,Online search,Very important,"Yes, regularly",Likely
+18-24,Male,£500-£1000,Rarely,£20-£50,Online only,H&M,I don't plan,Rarely,Somewhat prefer,Quality,Not important,Rarely,Online search,Important,No,Unlikely
+18-24,Male,£500-£1000,Monthly,£20-£50,Online only,H&M,I don't plan,Always,Somewhat prefer,Quality,Not important,Rarely,Online search,Important,No,Unlikely
+18-24,Male,Under £500,Rarely,Under £20,Online only,Option 1,I don't plan,Sometimes,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Weekly,£20-£50,In-store only,Other,I don't plan,Often,Neutral,Brand,Neutral,Rarely,TV ads,Important,"Yes, occasionally",Neutral
+18-24,Female,£500-£1000,Weekly,£20-£50,Online only,Zara,I don't plan,Often,Strongly prefer,Quality,Neutral,Never,Friends,Neutral,No,Neutral
+Under 18,Female,£500-£1000,Monthly,£20-£50,Both equally,Zara,Months before,Rarely,Neutral,Trends,Neutral,Sometimes,Online search,Neutral,No,Neutral
+18-24,Female,Under £500,Monthly,Under £20,Online only,Amazon,Weeks before,Always,Strongly prefer,Quality,Very important,Never,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Every 2-3 months,£100-£200,Both equally,Amazon,I don't plan,Sometimes,Neutral,Quality,Neutral,Rarely,Friends,Neutral,No,Neutral
+25-34,Male,Under £500,Weekly,Under £20,Online only,Option 1,I don't plan,Often,Strongly prefer,Brand,Very important,Sometimes,In-store,Not important,"Yes, regularly",Very likely
+25-34,Male,£500-£1000,Every 2-3 months,£100-£200,In-store only,H&M,Weeks before,Sometimes,Neutral,Trends,Neutral,Never,Friends,Neutral,"Yes, regularly",Neutral
+35-44,Male,£500-£1000,Monthly,£200+,"In-store only, Both equally",Shein,I don't plan,Rarely,Somewhat prefer,Quality,Important,Sometimes,TV ads,Important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Monthly,Under £20,In-store only,Amazon,I don't plan,Often,Somewhat prefer,Price,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£2000-£3500,Every 2-3 months,£50-£100,Both equally,Amazon,Weeks before,Rarely,Neutral,Quality,Important,Rarely,Friends,Important,"Yes, regularly",Very likely
+35-44,Female,Under £500,Monthly,£50-£100,Both equally,H&M,Months before,Rarely,Neutral,Trends,Neutral,Never,Online search,Neutral,No,Neutral
+18-24,Male,Under £500,Twice a year,Under £20,Both equally,Other,Day before,Sometimes,Somewhat prefer,Quality,Important,Rarely,Online search,Important,No,Neutral
+18-24,Male,Under £500,Every 2-3 months,Under £20,Online only,Other,Weeks before,Sometimes,Neutral,Quality,Important,Sometimes,Friends,Very important,"Yes, occasionally",Neutral
+25-34,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Other,Months before,Often,Somewhat prefer,Quality,Important,Rarely,Social Media,Important,No,Likely
+25-34,Prefer not to say,£1000-£2000,Every 2-3 months,£50-£100,In-store only,Zara,Day before,Sometimes,Neutral,Trends,Neutral,Rarely,Online search,Not important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Monthly,Under £20,Both equally,Option 1,I don't plan,Rarely,Strongly prefer,Quality,Very important,Rarely,Friends,Important,"Yes, occasionally",Very likely
+25-34,Male,Under £500,Every 2-3 months,£50-£100,In-store only,Other,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£1000-£2000,Weekly,£50-£100,Both equally,H&M,I don't plan,Rarely,Strongly prefer,Quality,Very important,Rarely,In-store,Important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Sometimes,Neutral,Price,Important,Rarely,Social Media,Very important,No,Neutral
+18-24,Female,£2000-£3500,Every 2-3 months,£50-£100,Both equally,Shein,I don't plan,Sometimes,Neutral,Quality,Neutral,Sometimes,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Every 2-3 months,Under £20,In-store only,Other,Weeks before,Always,Neutral,Quality,Very important,Rarely,Online search,Important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Weekly,£20-£50,Online only,H&M,I don't plan,Sometimes,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£1000-£2000,Monthly,£20-£50,Online only,Amazon,I don't plan,Rarely,Strongly prefer,Quality,Very important,Sometimes,Online search,Important,"Yes, regularly",Likely
+18-24,Male,£1000-£2000,Monthly,£100-£200,Both equally,Amazon,Day before,Often,Strongly prefer,Brand,Important,Very often,Social Media,Not important,"Yes, occasionally",Very likely
+25-34,Male,Under £500,Every 2-3 months,£50-£100,Online only,Amazon,Months before,Often,Somewhat prefer,Quality,Neutral,Rarely,Online search,Neutral,"Yes, occasionally",Neutral
+18-24,Male,£2000-£3500,Every 2-3 months,£50-£100,"Online only, Both equally",Amazon,I don't plan,Sometimes,Somewhat prefer,Trends,Very important,Very often,Social Media,Important,No,Neutral
+25-34,Male,£1000-£2000,Monthly,£20-£50,In-store only,Shein,I don't plan,Often,Somewhat prefer,Quality,Important,Rarely,TV ads,Very important,"Yes, regularly",Very likely
+25-34,Male,£1000-£2000,Monthly,£50-£100,Online only,Zara,I don't plan,Always,Strongly prefer,Brand,Important,Sometimes,Social Media,Neutral,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Every 2-3 months,Under £20,"Online only, In-store only, Both equally",H&M,Weeks before,Often,Strongly prefer,Brand,Very important,Sometimes,Friends,Very important,"Yes, occasionally",Neutral
+25-34,Female,Under £500,Every 2-3 months,Under £20,Online only,Other,Weeks before,Sometimes,Strongly prefer,Quality,Neutral,Rarely,Social Media,Important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Monthly,£20-£50,"Online only, In-store only, Both equally",Shein,Months before,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Online search,Important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Rarely,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Price,Very important,Never,Social Media,Very important,No,Neutral
+18-24,Female,Under £500,Every 2-3 months,£200+,In-store only,Amazon,Weeks before,Often,Somewhat prefer,Quality,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Monthly,£50-£100,In-store only,Other,Day before,Often,Somewhat prefer,Quality,Neutral,Rarely,Social Media,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Social Media,Important,"Yes, occasionally",Very likely
+18-24,Female,£500-£1000,Every 2-3 months,£50-£100,Both equally,Other,I don't plan,Rarely,Strongly prefer,Quality,Important,Sometimes,Friends,Very important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Twice a year,£20-£50,Both equally,Amazon,Day before,Rarely,Strongly prefer,Quality,Very important,Rarely,Social Media,Important,No,Neutral
+18-24,Female,£2000-£3500,Monthly,£100-£200,Both equally,Zara,I don't plan,Sometimes,Strongly prefer,Brand,Very important,Rarely,In-store,Neutral,"Yes, occasionally",Likely
+18-24,Female,Under £500,Monthly,Under £20,Both equally,Zara,I don't plan,Often,Strongly prefer,Quality,Important,Sometimes,Social Media,Very important,"Yes, occasionally",Likely
+18-24,Female,£2000-£3500,Every 2-3 months,£100-£200,In-store only,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Rarely,Friends,Very important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Twice a year,Under £20,Both equally,Amazon,I don't plan,Always,Somewhat prefer,Quality,Neutral,Sometimes,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,£1000-£2000,Weekly,£50-£100,Both equally,Zara,I don't plan,Always,Don't consider,Quality,Important,Rarely,Social Media,Very important,"Yes, occasionally",Very likely
+18-24,Female,Under £500,Twice a year,£20-£50,Both equally,Amazon,I don't plan,Always,Somewhat prefer,Quality,Important,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Twice a year,£20-£50,In-store only,Option 1,Weeks before,Sometimes,Don't consider,Price,Not important,Rarely,In-store,Important,"Yes, occasionally",Unlikely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,In-store only,Amazon,Day before,Often,Somewhat prefer,Brand,Important,Sometimes,Friends,Important,"Yes, occasionally",Likely
+18-24,Male,£500-£1000,Every 2-3 months,£20-£50,Both equally,Amazon,I don't plan,Sometimes,Neutral,Brand,Important,Sometimes,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Every 2-3 months,£200+,Both equally,Other,Day before,Never,Neutral,Quality,Neutral,Sometimes,Online search,Neutral,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Monthly,£20-£50,Both equally,Amazon,Weeks before,Rarely,Somewhat prefer,Quality,Very important,Never,Online search,Very important,No,Neutral
+18-24,Male,Under £500,Monthly,Under £20,Online only,Option 1,I don't plan,Often,Strongly prefer,Trends,Important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Amazon,Day before,Sometimes,Strongly prefer,Quality,Very important,Sometimes,Online search,Important,"Yes, regularly",Neutral
+18-24,Male,£500-£1000,Monthly,£20-£50,Both equally,Zara,I don't plan,Often,Strongly prefer,Quality,Very important,Rarely,In-store,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Online only,Other,I don't plan,Often,Don't consider,Quality,Very important,Rarely,Online search,Very important,"Yes, occasionally",Unlikely
+18-24,Female,£1000-£2000,Every 2-3 months,£100-£200,Both equally,Amazon,Weeks before,Rarely,Somewhat prefer,Quality,Very important,Rarely,Friends,Important,"Yes, regularly",Very likely
+18-24,Female,£500-£1000,Every 2-3 months,£20-£50,Online only,Amazon,I don't plan,,Somewhat prefer,Price,Neutral,Sometimes,Social Media,Very important,"Yes, regularly",Likely
+18-24,Female,Under £500,Monthly,Under £20,Both equally,Amazon,I don't plan,Often,Strongly prefer,Quality,Neutral,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Often,Somewhat prefer,Quality,Important,Rarely,Social Media,Important,"Yes, regularly",Neutral
+25-34,Male,£3500+,Rarely,£200+,Both equally,Amazon,I don't plan,Always,Somewhat prefer,Brand,Important,Sometimes,In-store,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,£20-£50,Both equally,Other,I don't plan,Rarely,Neutral,Brand,Very important,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,£200+,In-store only,Other,I don't plan,Sometimes,Strongly prefer,Quality,Neutral,Rarely,Friends,Neutral,No,Neutral
+18-24,Female,£1000-£2000,Monthly,£200+,Both equally,Other,I don't plan,Sometimes,Strongly prefer,Quality,Important,Very often,Online search,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Monthly,£20-£50,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Trends,Important,Rarely,Online search,Important,"Yes, occasionally",Neutral
+25-34,Male,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Price,Very important,Rarely,Online search,Very important,"Yes, occasionally",Unlikely
+18-24,Male,£500-£1000,Every 2-3 months,£50-£100,In-store only,Zara,Months before,Sometimes,Strongly prefer,Brand,Important,Rarely,Online search,Neutral,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,Months before,Always,Strongly prefer,Brand,Important,Rarely,Social Media,Very important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Twice a year,Under £20,Both equally,Other,Day before,Often,Strongly prefer,Price,Important,Sometimes,Online search,Very important,No,Likely
+18-24,Male,Under £500,Twice a year,£20-£50,"Online only, In-store only, Both equally",Amazon,Weeks before,,Somewhat prefer,Trends,Important,Rarely,Social Media,,"Yes, occasionally",Neutral
+25-34,Male,Under £500,Every 2-3 months,Under £20,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Price,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Male,£500-£1000,Monthly,£50-£100,In-store only,Amazon,Day before,Often,Neutral,Social Media,Not important,Sometimes,In-store,Not important,No,Very unlikely
+18-24,Female,£2000-£3500,Monthly,£50-£100,"Online only, In-store only, Both equally",Other,I don't plan,Always,Don't consider,Quality,Very important,Never,Social Media,Very important,"Yes, regularly",Likely
+18-24,Female,Under £500,Every 2-3 months,£100-£200,In-store only,Other,Weeks before,Sometimes,Somewhat prefer,Quality,Important,Rarely,Online search,Important,"Yes, occasionally",Neutral
+18-24,Female,£500-£1000,Weekly,£50-£100,Both equally,Amazon,I don't plan,Always,Strongly prefer,Quality,Very important,Rarely,Social Media,Very important,"Yes, regularly",Very likely
+25-34,Female,£3500+,Monthly,£50-£100,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Every 2-3 months,£20-£50,Online only,H&M,Day before,Always,Strongly prefer,Brand,Very important,Very often,Social Media,Very important,No,Very likely
+18-24,Male,£500-£1000,Monthly,£50-£100,In-store only,H&M,Day before,Sometimes,Somewhat prefer,Trends,Neutral,Rarely,TV ads,Important,"Yes, regularly",Neutral
+18-24,Male,Under £500,Rarely,Under £20,In-store only,Other,Day before,Always,Don't consider,Price,Neutral,Never,Social Media,Neutral,No,Very unlikely
+18-24,Female,Under £500,Every 2-3 months,Under £20,In-store only,Other,Day before,Rarely,Neutral,Quality,Very important,Sometimes,Social Media,Important,"Yes, occasionally",Very unlikely
+18-24,Female,Under £500,Monthly,£20-£50,"In-store only, Both equally",Amazon,I don't plan,Sometimes,Neutral,Quality,Important,Rarely,In-store,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Twice a year,£20-£50,Both equally,Other,I don't plan,Sometimes,Somewhat prefer,Price,Very important,Never,In-store,Important,"Yes, occasionally",Very likely
+18-24,Female,£3500+,Monthly,£200+,Both equally,Zara,Weeks before,Rarely,Neutral,Quality,Neutral,Rarely,Social Media,Important,"Yes, regularly",Likely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Neutral,Rarely,Online search,Important,No,Neutral
+18-24,Female,£1000-£2000,Monthly,£100-£200,Online only,Other,Day before,Sometimes,Strongly prefer,Brand,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Twice a year,Under £20,In-store only,Zara,I don't plan,Sometimes,Strongly prefer,Price,Very important,Rarely,Online search,Very important,No,Neutral
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,Day before,Often,Strongly prefer,Quality,Important,Rarely,Friends,Important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Rarely,Under £20,"In-store only, Both equally",Other,I don't plan,Sometimes,Don't consider,Quality,Neutral,Never,Online search,Neutral,No,Likely
+18-24,Male,Under £500,Twice a year,£20-£50,Both equally,Other,I don't plan,Often,Strongly prefer,Brand,Important,Sometimes,Online search,Neutral,No,Neutral
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Sometimes,Neutral,Quality,Neutral,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Female,£3500+,Weekly,£200+,Both equally,Zara,Weeks before,Sometimes,Neutral,Quality,Neutral,Rarely,Friends,Important,"Yes, regularly",Likely
+18-24,Male,£500-£1000,Monthly,£20-£50,Both equally,Zara,Weeks before,Sometimes,Somewhat prefer,Brand,Very important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Every 2-3 months,£50-£100,Both equally,Amazon,Day before,Always,Strongly prefer,Quality,Very important,Sometimes,Friends,Neutral,"Yes, regularly",Very likely
+25-34,Female,£1000-£2000,Monthly,£50-£100,Both equally,Amazon,Day before,Often,Somewhat prefer,Quality,Very important,Sometimes,Social Media,Very important,"Yes, occasionally",Very likely
+18-24,Female,£500-£1000,Every 2-3 months,£200+,Both equally,Other,Weeks before,Sometimes,Neutral,Price,Important,Sometimes,In-store,Important,"Yes, regularly",Very likely
+18-24,Female,£500-£1000,Monthly,£200+,Both equally,Amazon,Day before,Sometimes,Somewhat prefer,Brand,Important,Very often,In-store,Important,"Yes, regularly",Very likely
+25-34,Male,£3500+,Rarely,£200+,Both equally,Shein,Months before,Rarely,Neutral,Trends,Neutral,Rarely,In-store,Neutral,No,Likely
+18-24,Female,Under £500,Rarely,Under £20,In-store only,Other,I don't plan,Sometimes,Strongly prefer,Trends,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Every 2-3 months,Under £20,Both equally,Other,Weeks before,Never,Don't consider,Friends,Important,Rarely,TV ads,Neutral,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Every 2-3 months,£20-£50,In-store only,Other,I don't plan,Rarely,Strongly prefer,Quality,Very important,Rarely,Social Media,Very important,No,Neutral
+18-24,Male,Under £500,Twice a year,Under £20,In-store only,Option 1,I don't plan,Often,Somewhat prefer,Quality,Very important,Rarely,Social Media,Neutral,No,Neutral
+18-24,Female,£3500+,Every 2-3 months,£200+,Both equally,Other,Weeks before,Sometimes,Somewhat prefer,Quality,Very important,Rarely,Social Media,Important,"Yes, occasionally",Likely
+Under 18,Male,£500-£1000,Every 2-3 months,£20-£50,Online only,Other,Weeks before,Often,Neutral,Brand,Important,Rarely,Social Media,Important,"Yes, regularly",Very likely
+Under 18,Male,Under £500,Every 2-3 months,£20-£50,Both equally,Amazon,Day before,Often,Strongly prefer,Trends,Very important,Very often,Online search,Very important,"Yes, regularly",Very likely
+25-34,Female,Under £500,Rarely,Under £20,In-store only,Other,I don't plan,Sometimes,Neutral,Quality,Very important,Never,In-store,Very important,No,Very unlikely
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Amazon,I don't plan,Rarely,Somewhat prefer,Price,Important,Never,In-store,Very important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Rarely,Under £20,Both equally,Other,I don't plan,Rarely,Neutral,Quality,Important,Never,Friends,Neutral,No,Unlikely
+18-24,Female,£1000-£2000,Monthly,£200+,Online only,Other,Day before,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Online search,Important,"Yes, occasionally",Likely
+25-34,Female,£500-£1000,Every 2-3 months,£100-£200,Both equally,Other,Months before,Rarely,Somewhat prefer,Social Media,Important,Sometimes,Online search,Important,No,Likely
+18-24,Male,Under £500,Monthly,£20-£50,"Online only, In-store only",Other,I don't plan,Always,Strongly prefer,Brand,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Neutral
+18-24,Male,Under £500,Every 2-3 months,Under £20,In-store only,Amazon,I don't plan,Often,Somewhat prefer,Quality,Neutral,Never,Friends,Important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Every 2-3 months,Under £20,Both equally,Other,Months before,Sometimes,Somewhat prefer,Quality,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,Under £500,Weekly,£50-£100,Both equally,Shein,I don't plan,Sometimes,Strongly prefer,Quality,Very important,Never,Social Media,Neutral,"Yes, occasionally",Very likely
+18-24,Male,Under £500,Rarely,Under £20,Online only,Option 1,I don't plan,Always,Strongly prefer,Price,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Twice a year,Under £20,Both equally,Other,I don't plan,Sometimes,Strongly prefer,Brand,Very important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Female,£500-£1000,Monthly,£200+,Both equally,Amazon,I don't plan,Often,Strongly prefer,Quality,Important,Sometimes,Social Media,Important,"Yes, occasionally",Likely
+18-24,Female,Under £500,Monthly,Under £20,Online only,Amazon,I don't plan,Never,Neutral,Quality,Very important,Sometimes,Online search,Very important,No,Unlikely
+18-24,Male,Under £500,Every 2-3 months,Under £20,In-store only,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Sometimes,Social Media,Very important,No,Likely
+18-24,Male,£1000-£2000,Monthly,£100-£200,"In-store only, Both equally",Zara,I don't plan,Sometimes,Somewhat prefer,Quality,Neutral,Sometimes,Online search,Not important,"Yes, occasionally",Likely
+18-24,Male,£1000-£2000,Twice a year,£200+,Both equally,Amazon,I don't plan,Never,Don't consider,Brand,Very important,Sometimes,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£500-£1000,Every 2-3 months,£20-£50,In-store only,Other,Day before,Always,Don't consider,Friends,Neutral,Rarely,In-store,Very important,No,Neutral
+18-24,Male,Under £500,Every 2-3 months,£50-£100,In-store only,Amazon,I don't plan,Sometimes,Somewhat prefer,Quality,Very important,Very often,Friends,Very important,No,Neutral
+Under 18,Female,Under £500,Monthly,Under £20,Both equally,Other,Day before,Often,Neutral,Quality,Very important,Very often,Friends,Important,"Yes, regularly",Very likely
+18-24,Male,Under £500,Rarely,Under £20,In-store only,Amazon,Day before,Sometimes,Strongly prefer,Brand,Very important,Rarely,Social Media,Important,No,Likely
+18-24,Female,Under £500,Every 2-3 months,£50-£100,"In-store only, Both equally",Amazon,I don't plan,Often,Somewhat prefer,Quality,Neutral,Rarely,In-store,Very important,"Yes, occasionally",Likely
+18-24,Male,Under £500,Weekly,Under £20,"Online only, In-store only, Both equally",Option 1,Weeks before,Often,Somewhat prefer,Brand,Important,Very often,Social Media,Very important,"Yes, regularly",Very likely
+18-24,Male,£3500+,Weekly,£200+,Both equally,Zara,Months before,Always,Strongly prefer,Brand,Very important,Never,Online search,Very important,"Yes, occasionally",Neutral
+18-24,Female,£2000-£3500,Monthly,£200+,In-store only,Amazon,I don't plan,Rarely,Somewhat prefer,Brand,Important,Sometimes,Online search,Important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Every 2-3 months,£50-£100,Online only,Other,I don't plan,Sometimes,Somewhat prefer,Quality,Important,Sometimes,Online search,Important,"Yes, occasionally",Neutral
+18-24,Female,Under £500,Every 2-3 months,£20-£50,In-store only,Other,Weeks before,Rarely,Neutral,Quality,Very important,Rarely,In-store,Very important,"Yes, occasionally",Unlikely
+18-24,Male,£500-£1000,Every 2-3 months,£50-£100,Both equally,Other,I don't plan,,Strongly prefer,Brand,Very important,Rarely,Social Media,Very important,"Yes, occasionally",Very likely
+25-34,Male,Under £500,Rarely,£20-£50,In-store only,Other,I don't plan,Sometimes,Strongly prefer,Quality,Neutral,Rarely,In-store,Important,No,Unlikely
+18-24,Female,£500-£1000,Monthly,£50-£100,In-store only,Zara,Day before,Often,Strongly prefer,Quality,Important,Sometimes,In-store,Neutral,"Yes, occasionally",Likely
+18-24,Female,Under £500,Rarely,£20-£50,Both equally,Other,Weeks before,Sometimes,Somewhat prefer,Quality,Important,Very often,Social Media,Very important,"Yes, regularly",Very likely
